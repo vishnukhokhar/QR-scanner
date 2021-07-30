@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">final a</string>
+    <string name="attendence_scanner">Attendence Scanner</string>
+    <string name="scan">Scan</string>
+</resources>
